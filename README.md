@@ -5,3 +5,5 @@ List of files:
 * Gradient Descent
 * Back Propogation
 * Autoencoders
+* GAN
+* LSTM
